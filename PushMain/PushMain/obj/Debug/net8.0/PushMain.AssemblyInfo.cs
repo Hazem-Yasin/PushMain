@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PushMain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4edcab7aceb5b83b5663a77cb531f6c46b0bcb6b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+936fc2f63248bb42d57acefe6766d9e6a31c1f90")]
 [assembly: System.Reflection.AssemblyProductAttribute("PushMain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PushMain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\PushMain\\PushMain\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD8378E-4AF6-4094-8ACB-5A2633D6B111}|PushMain\\PushMain.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\pushmain\\pushmain\\pushmain\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BD8378E-4AF6-4094-8ACB-5A2633D6B111}|PushMain\\PushMain.csproj|solutionrelative:pushmain\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD8378E-4AF6-4094-8ACB-5A2633D6B111}|PushMain\\PushMain.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\pushmain\\pushmain\\pushmain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD8378E-4AF6-4094-8ACB-5A2633D6B111}|PushMain\\PushMain.csproj|solutionrelative:pushmain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\PushMain\\PushMain\\PushMain\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PushMain\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\PushMain\\PushMain\\PushMain\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PushMain\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T02:22:53.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\PushMain\\PushMain\\PushMain\\Program.cs",
+              "RelativeDocumentMoniker": "PushMain\\Program.cs",
+              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\PushMain\\PushMain\\PushMain\\Program.cs",
+              "RelativeToolTip": "PushMain\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T02:22:11.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -11,9 +11,14 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options =>
 options.SignIn.RequireConfirmedAccount = true)
  .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddRazorPages();
+
+
 builder.Services.Configure<IdentityOptions>(options =>
 {
     // Password settings.
+
+
+
     options.Password.RequireDigit = true;
     options.Password.RequireLowercase = true;
     options.Password.RequireNonAlphanumeric = true;
@@ -38,6 +43,16 @@ builder.Services.ConfigureApplicationCookie(options =>
     options.AccessDeniedPath = "/Identity/Account/AccessDenied";
     options.SlidingExpiration = true;
 });
+
+
+///explaining what is going on
+///testing comments
+///testing comments
+///testing comments
+///testing comments
+///testing comments
+///testing comments
+///testing comments
 var app = builder.Build();
 if (app.Environment.IsDevelopment())
 {

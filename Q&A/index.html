@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Essential C and C++ Concepts</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; }
+        h1, h2 { color: #333; }
+        code { background: #f4f4f4; padding: 3px 5px; border-radius: 3px; }
+        pre { background: #f4f4f4; padding: 10px; border-radius: 5px; overflow-x: auto; }
+    </style>
+</head>
+<body>
+    <h1>Essential C and C++ Concepts</h1>
+    
+    <h2>3. Array Basics</h2>
+    <h3>What are Arrays?</h3>
+    <p>A collection of similar data elements grouped under one name.</p>
+    <pre>
+int main() {
+    // This is an array of 5 integers
+    int A[5];
+}
+    </pre>
+    <p>Memory Layout:</p>
+    <pre>
+Heap 
+A[5]
+Code Section:
+int main() {
+    int A[5];
+}
+    </pre>
+    
+    <h3>Declaring vs Initializing an Array</h3>
+    <pre>
+// Declaring an array
+int A[5];
+
+// Initializing an array
+int A[5] = {0,1,2,3,4};
+    </pre>
+    
+    <h3>Accessing an Array</h3>
+    <pre>
+for(int i = 0; i < 5; i++) {
+    printf("%d", A[i]);
+}
+    </pre>
+    
+    <h2>5. Structures</h2>
+    <h3>What is a Structure?</h3>
+    <p>A collection of different types of data grouped under one name.</p>
+    <pre>
+struct Rectangle {
+    int length;
+    int breadth;
+};
+    </pre>
+    <p>Accessing structure members:</p>
+    <pre>
+Rectangle r;
+r.length = 10;
+printf("Length: %d", r.length);
+    </pre>
+    
+    <h3>Array of Structures</h3>
+    <pre>
+struct Card {
+    int face;
+    int shape;
+    int color;
+};
+
+Card deck[52];
+    </pre>
+    
+    <h2>7. Pointers</h2>
+    <h3>What is a Pointer?</h3>
+    <p>A variable that stores the address of another variable.</p>
+    <pre>
+int a = 10;
+int *p = &a;
+    </pre>
+    <p>Accessing a pointer:</p>
+    <pre>
+printf("%d", *p); // Outputs the value stored in a
+    </pre>
+    
+    <h2>9. Reference in C++</h2>
+    <h3>What is a Reference?</h3>
+    <p>A reference is another name for an existing variable (only in C++).</p>
+    <pre>
+int a = 10;
+int &r = a;
+    </pre>
+    
+    <h2>11. Pointer to Structure</h2>
+    <pre>
+struct Rectangle {
+    int length;
+    int breadth;
+};
+
+Rectangle r;
+Rectangle *p = &r;
+p->length = 20;
+    </pre>
+    
+    <h2>13. Functions</h2>
+    <h3>What are Functions?</h3>
+    <p>A function is a reusable block of code that performs a specific task.</p>
+    <pre>
+void printMessage() {
+    printf("Hello, World!");
+}
+    </pre>
+</body>
+</html>

@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hazem\\OneDrive\\Documents\\Git\\GitHub Desktop\\PushMain\\PushMain2\\PushMain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5526F0-8878-43DD-B595-EC5D771393E1}|PushMain.Client\\PushMain.Client.esproj|c:\\users\\hazem\\onedrive\\documents\\git\\github desktop\\pushmain\\pushmain2\\pushmain\\pushmain.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{BA5526F0-8878-43DD-B595-EC5D771393E1}|PushMain.Client\\PushMain.Client.esproj|solutionrelative:pushmain.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5526F0-8878-43DD-B595-EC5D771393E1}|PushMain.Client\\PushMain.Client.esproj|c:\\users\\hazem\\onedrive\\documents\\git\\github desktop\\pushmain\\pushmain2\\pushmain\\pushmain.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA5526F0-8878-43DD-B595-EC5D771393E1}|PushMain.Client\\PushMain.Client.esproj|solutionrelative:pushmain.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5526F0-8878-43DD-B595-EC5D771393E1}|PushMain.Client\\PushMain.Client.esproj|c:\\users\\hazem\\onedrive\\documents\\git\\github desktop\\pushmain\\pushmain2\\pushmain\\pushmain.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BA5526F0-8878-43DD-B595-EC5D771393E1}|PushMain.Client\\PushMain.Client.esproj|solutionrelative:pushmain.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5526F0-8878-43DD-B595-EC5D771393E1}|PushMain.Client\\PushMain.Client.esproj|c:\\users\\hazem\\onedrive\\documents\\git\\github desktop\\pushmain\\pushmain2\\pushmain\\pushmain.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{BA5526F0-8878-43DD-B595-EC5D771393E1}|PushMain.Client\\PushMain.Client.esproj|solutionrelative:pushmain.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5526F0-8878-43DD-B595-EC5D771393E1}|PushMain.Client\\PushMain.Client.esproj|c:\\users\\hazem\\onedrive\\documents\\git\\github desktop\\pushmain\\pushmain2\\pushmain\\pushmain.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{BA5526F0-8878-43DD-B595-EC5D771393E1}|PushMain.Client\\PushMain.Client.esproj|solutionrelative:pushmain.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5526F0-8878-43DD-B595-EC5D771393E1}|PushMain.Client\\PushMain.Client.esproj|c:\\users\\hazem\\onedrive\\documents\\git\\github desktop\\pushmain\\pushmain2\\pushmain\\pushmain.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{BA5526F0-8878-43DD-B595-EC5D771393E1}|PushMain.Client\\PushMain.Client.esproj|solutionrelative:pushmain.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5526F0-8878-43DD-B595-EC5D771393E1}|PushMain.Client\\PushMain.Client.esproj|c:\\users\\hazem\\onedrive\\documents\\git\\github desktop\\pushmain\\pushmain2\\pushmain\\pushmain.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA5526F0-8878-43DD-B595-EC5D771393E1}|PushMain.Client\\PushMain.Client.esproj|solutionrelative:pushmain.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5526F0-8878-43DD-B595-EC5D771393E1}|PushMain.Client\\PushMain.Client.esproj|c:\\users\\hazem\\onedrive\\documents\\git\\github desktop\\pushmain\\pushmain2\\pushmain\\pushmain.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{BA5526F0-8878-43DD-B595-EC5D771393E1}|PushMain.Client\\PushMain.Client.esproj|solutionrelative:pushmain.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\Git\\GitHub Desktop\\PushMain\\PushMain2\\PushMain\\PushMain.Client\\src\\app\\app.component.spec.ts",
+              "RelativeDocumentMoniker": "PushMain.Client\\src\\app\\app.component.spec.ts",
+              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\Git\\GitHub Desktop\\PushMain\\PushMain2\\PushMain\\PushMain.Client\\src\\app\\app.component.spec.ts",
+              "RelativeToolTip": "PushMain.Client\\src\\app\\app.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-01T21:59:21.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\Git\\GitHub Desktop\\PushMain\\PushMain2\\PushMain\\PushMain.Client\\src\\index.html",
+              "RelativeDocumentMoniker": "PushMain.Client\\src\\index.html",
+              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\Git\\GitHub Desktop\\PushMain\\PushMain2\\PushMain\\PushMain.Client\\src\\index.html",
+              "RelativeToolTip": "PushMain.Client\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-01T21:58:59.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\Git\\GitHub Desktop\\PushMain\\PushMain2\\PushMain\\PushMain.Client\\src\\main.ts",
+              "RelativeDocumentMoniker": "PushMain.Client\\src\\main.ts",
+              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\Git\\GitHub Desktop\\PushMain\\PushMain2\\PushMain\\PushMain.Client\\src\\main.ts",
+              "RelativeToolTip": "PushMain.Client\\src\\main.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-01T21:58:54.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\Git\\GitHub Desktop\\PushMain\\PushMain2\\PushMain\\PushMain.Client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "PushMain.Client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\Git\\GitHub Desktop\\PushMain\\PushMain2\\PushMain\\PushMain.Client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "PushMain.Client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-01T21:58:47.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\Git\\GitHub Desktop\\PushMain\\PushMain2\\PushMain\\PushMain.Client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "PushMain.Client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\Git\\GitHub Desktop\\PushMain\\PushMain2\\PushMain\\PushMain.Client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "PushMain.Client\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-01T21:58:41.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\Git\\GitHub Desktop\\PushMain\\PushMain2\\PushMain\\PushMain.Client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "PushMain.Client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\Git\\GitHub Desktop\\PushMain\\PushMain2\\PushMain\\PushMain.Client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "PushMain.Client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-01T21:58:32.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.component.css",
+              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\Git\\GitHub Desktop\\PushMain\\PushMain2\\PushMain\\PushMain.Client\\src\\app\\app.component.css",
+              "RelativeDocumentMoniker": "PushMain.Client\\src\\app\\app.component.css",
+              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\Git\\GitHub Desktop\\PushMain\\PushMain2\\PushMain\\PushMain.Client\\src\\app\\app.component.css",
+              "RelativeToolTip": "PushMain.Client\\src\\app\\app.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-01T21:58:16.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\Git\\GitHub Desktop\\PushMain\\PushMain2\\PushMain\\PushMain.Client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "PushMain.Client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\Git\\GitHub Desktop\\PushMain\\PushMain2\\PushMain\\PushMain.Client\\src\\app\\app.component.html",
+              "RelativeToolTip": "PushMain.Client\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-01T21:57:42.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "1HTx8BrLETj4CAAy30el/Tk5ltvibWSnFmahFPlma6A=",
+  "Source": "PushMain.Api",
+  "BasePath": "_content/PushMain.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

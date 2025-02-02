@@ -4552,23 +4552,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HazemYa-sin\\.nuget\\packages\\": {},
+    "C:\\Users\\hazem\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HazemYa-sin\\Github\\PushMain\\PushMain\\PushMain\\PushMain.csproj",
+      "projectUniqueName": "C:\\Users\\hazem\\OneDrive\\Documents\\Git\\GitHub Desktop\\PushMain\\PushMain\\PushMain\\PushMain.csproj",
       "projectName": "PushMain",
-      "projectPath": "C:\\Users\\HazemYa-sin\\Github\\PushMain\\PushMain\\PushMain\\PushMain.csproj",
-      "packagesPath": "C:\\Users\\HazemYa-sin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HazemYa-sin\\Github\\PushMain\\PushMain\\PushMain\\obj\\",
+      "projectPath": "C:\\Users\\hazem\\OneDrive\\Documents\\Git\\GitHub Desktop\\PushMain\\PushMain\\PushMain\\PushMain.csproj",
+      "packagesPath": "C:\\Users\\hazem\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hazem\\OneDrive\\Documents\\Git\\GitHub Desktop\\PushMain\\PushMain\\PushMain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\HazemYa-sin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hazem\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4596,7 +4596,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -4642,7 +4642,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200-preview.0.25057.12/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

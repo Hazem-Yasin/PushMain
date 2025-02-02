@@ -1,20 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HazemYa-sin\\Github\\PushMain\\PushMain\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{9BD8378E-4AF6-4094-8ACB-5A2633D6B111}|PushMain\\PushMain.csproj|c:\\users\\hazemya-sin\\github\\pushmain\\pushmain\\pushmain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BD8378E-4AF6-4094-8ACB-5A2633D6B111}|PushMain\\PushMain.csproj|solutionrelative:pushmain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BD8378E-4AF6-4094-8ACB-5A2633D6B111}|PushMain\\PushMain.csproj|c:\\users\\hazemya-sin\\github\\pushmain\\pushmain\\pushmain\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BD8378E-4AF6-4094-8ACB-5A2633D6B111}|PushMain\\PushMain.csproj|solutionrelative:pushmain\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BD8378E-4AF6-4094-8ACB-5A2633D6B111}|PushMain\\PushMain.csproj|c:\\users\\hazemya-sin\\github\\pushmain\\pushmain\\pushmain\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BD8378E-4AF6-4094-8ACB-5A2633D6B111}|PushMain\\PushMain.csproj|solutionrelative:pushmain\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\hazem\\OneDrive\\Documents\\Git\\GitHub Desktop\\PushMain\\PushMain\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,50 +9,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\HazemYa-sin\\Github\\PushMain\\PushMain\\PushMain\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "PushMain\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\HazemYa-sin\\Github\\PushMain\\PushMain\\PushMain\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "PushMain\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T13:36:11.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\HazemYa-sin\\Github\\PushMain\\PushMain\\PushMain\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "PushMain\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\HazemYa-sin\\Github\\PushMain\\PushMain\\PushMain\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "PushMain\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T13:36:07.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HazemYa-sin\\Github\\PushMain\\PushMain\\PushMain\\Program.cs",
-              "RelativeDocumentMoniker": "PushMain\\Program.cs",
-              "ToolTip": "C:\\Users\\HazemYa-sin\\Github\\PushMain\\PushMain\\PushMain\\Program.cs",
-              "RelativeToolTip": "PushMain\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T02:22:11.326Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
